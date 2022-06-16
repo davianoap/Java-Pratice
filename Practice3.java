@@ -4,3 +4,4 @@ public class Practice3 {
         System.out.println(a);
     }
 }
+
